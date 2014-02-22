@@ -17,9 +17,18 @@ Most of the image assets aren't mine (they're very Pokemonish...) but the 3D mod
 
 The project was done in Visual Studio 2012, with C#/XNA.
 
+Screenshots
+=============
+<br/>
+![](NicksAdventure7/Screenshots/ss_1.png)
+<br/>
+![](NicksAdventure7/Screenshots/ss_2.png)
+<br/>
+![](NicksAdventure7/Screenshots/ss_2.png)
 
+The MIT License (MIT)
 =================
-The MIT License (MIT) Copyright © 2014 Nick Chavez
+Copyright © 2014 Nick Chavez
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
